@@ -15,7 +15,7 @@ _This is a HTML two page website intended to be hosted on a server for people to
 
 ## Known Bugs
 
-_Not on the WWW._
+_Not on the WWW._ its awesome 
 
 ## Support and contact details
 
@@ -28,4 +28,4 @@ _{HTML}_
 ### License
 
 
-Copyright (c) 2020 **_{Epicodus LTD.}_**
+Copyright (c) 2020 **_{Epicodus LTD.}_** 

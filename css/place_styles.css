@@ -1,0 +1,17 @@
+h1{
+  color: maroon;
+  text-align: center;
+}
+h2 { 
+  color: darkolivegreen;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  color: green;
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
